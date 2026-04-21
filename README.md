@@ -30,7 +30,7 @@
 Log4j2 нь тусгай тохиргооны файл ашиглана
   - Console болон File appender ашигласан
   - Pattern layout-д дараах мэдээлэл багтсан:
-    - Огноо     - Thread    - Class (%c)
+    - Огноо     - Thread    - Class
     - Line number     - Message
 
 tail -f нь log файлыг шинэчлэгдэж байгааг тасралтгүй харуулдаг тул систем 
